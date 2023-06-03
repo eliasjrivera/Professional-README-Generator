@@ -32,7 +32,7 @@ ${Tests}
 ## Questions
 https://github.com/${GitHub}
 <br>
-${Email}`;
+Reach out here, ${Email}`;
 
 // inquirer prompt module
 inquirer
